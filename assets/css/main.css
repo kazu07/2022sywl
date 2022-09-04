@@ -3263,9 +3263,10 @@
 
 
 .presenter_name{
-	padding-top: 30%;
+	padding-top: 5%;
+	margin-bottom: 1%;
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 1.3em;
 }
 .presenter_bg{
 	text-align: left;
@@ -3280,6 +3281,34 @@
 }
 .presenter_bg_process{
 	padding-left: 1em;
+}
+
+.presenter_work{
+	padding-top: 1%;
+	text-align: center;
+}
+.presenter_{
+	width: 100%;
+	height: auto;
+	padding-bottom: 10%;
+}
+.presenter_info{
+	width: 30%;
+	float: left;
+	padding-right: 10%;
+}
+.presenter_datail{
+	width: 70%;
+	float: left;
+	text-align: left;
+}
+.content{
+	clear: both;
+	text-align: left;
+	padding-left: 5%;
+}
+.profile{
+	list-style-type: disc;
 }
 
 @media screen and (max-width: 1024px) {
