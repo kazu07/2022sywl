@@ -3293,23 +3293,51 @@
 	padding-bottom: 10%;
 }
 .presenter_info{
-	width: 30%;
+	width: 35%;
 	float: left;
-	padding-right: 10%;
+	padding-right: 5%;
 }
 .presenter_datail{
-	width: 70%;
+	width: 65%;
 	float: left;
 	text-align: left;
 }
 .content{
 	clear: both;
 	text-align: left;
-	padding-left: 5%;
+	padding-left: 3%;
 }
 .profile{
 	list-style-type: disc;
 }
+
+.members{
+	clear: both;
+	text-align: center;
+}
+.ORGANIZEDBY{
+	width: 90%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.representative{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.representative_info{
+	width: 50%;
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+
+	margin:0 auto;
+}
+.representative_info img{
+	width: 40%
+}
+
 
 @media screen and (max-width: 1024px) {
 	.presenter_name{
