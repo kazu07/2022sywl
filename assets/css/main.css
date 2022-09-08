@@ -3311,10 +3311,6 @@
 	list-style-type: disc;
 }
 
-.members{
-	clear: both;
-	text-align: center;
-}
 .ORGANIZEDBY{
 	width: 90%;
 	text-align: center;
@@ -3337,7 +3333,10 @@
 .representative_info img{
 	width: 40%
 }
-
+.members{
+	clear: both;
+	text-align: center;
+}
 
 @media screen and (max-width: 1024px) {
 	.presenter_name{
