@@ -3278,6 +3278,7 @@
 }
 .presenter_bg_year{
 	/* padding-left: 1em; */
+	text-align: center;
 }
 .presenter_bg_process{
 	padding-left: 1em;
@@ -3314,21 +3315,13 @@
 .ORGANIZEDBY{
 	width: 90%;
 	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
 }
 .representative{
 	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
 }
 .representative_info{
 	width: 50%;
 	float: left;
-	margin-left: auto;
-	margin-right: auto;
-
-	margin:0 auto;
 }
 .representative_info img{
 	width: 40%
