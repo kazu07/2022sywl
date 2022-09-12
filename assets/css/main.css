@@ -3303,6 +3303,11 @@
 	float: left;
 	text-align: left;
 }
+.presenter_datail span{
+	width: 65%;
+	font-size:1.5em;
+	text-align: center;
+}
 .content{
 	clear: both;
 	text-align: left;
@@ -3330,7 +3335,13 @@
 	clear: both;
 	text-align: center;
 }
-
+#subtitle{
+	text-align: center;
+	font-size: 1.5em;
+}
+#subtitle span{
+	font-size: 1.6em;
+}
 @media screen and (max-width: 1024px) {
 	.presenter_name{
 		/* padding: 0%; */
