@@ -3303,7 +3303,7 @@
 	float: left;
 	text-align: left;
 }
-.presenter_datail span{
+.presenter_datail > span{
 	width: 65%;
 	font-size:1.5em;
 	text-align: center;
@@ -3335,10 +3335,14 @@
 	clear: both;
 	text-align: center;
 }
+#title >span{
+	font-size: 1.6em;
+}
 #subtitle{
 	text-align: center;
 	font-size: 1.5em;
 }
+
 #subtitle >span{
 	font-size: 1.6em;
 }
