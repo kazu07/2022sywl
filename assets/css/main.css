@@ -3298,16 +3298,19 @@
 	float: left;
 	padding-right: 5%;
 }
+
+
 .presenter_datail{
 	width: 65%;
 	float: left;
 	text-align: left;
 }
-.presenter_datail > span{
+.talk_theme{
 	width: 65%;
 	font-size:1.5em;
 	text-align: center;
 }
+
 .content{
 	clear: both;
 	text-align: left;
