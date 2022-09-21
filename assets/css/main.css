@@ -3331,10 +3331,10 @@
 	float: left;
 }
 .representative_info> img{
-	width: 40%
+	width: 150px;
+	height: 200px;
 }
 .members{
-	clear: both;
 	text-align: center;
 }
 .list2{
@@ -3351,7 +3351,9 @@
 	text-align: center;
 	font-size: 1.5em;
 }
-
+.float_clear{
+	clear: both;
+}
 #subtitle >span{
 	font-size: 1.6em;
 }
