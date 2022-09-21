@@ -3266,7 +3266,8 @@
 	padding-top: 5%;
 	margin-bottom: 1%;
 	text-align: center;
-	font-size: 1.3em;
+	font-size: 1.5em;
+	font-weight:bold;
 }
 .presenter_bg{
 	text-align: left;
@@ -3338,6 +3339,8 @@
 	clear: both;
 	text-align: center;
 }
+
+
 #title >span{
 	font-size: 1.6em;
 }
@@ -3348,6 +3351,24 @@
 
 #subtitle >span{
 	font-size: 1.6em;
+}
+.memberlistbox span{
+	font-weight:bold;
+}
+.memberlistbox{
+	width: 100%;
+	text-align: center;
+}
+.member{
+	width: 50%;
+	height: 120px;
+	text-align: left;
+	float: left;
+}
+
+#organized_by{
+	clear: both;
+	height: 1000px;
 }
 @media screen and (max-width: 1024px) {
 	.presenter_name{
