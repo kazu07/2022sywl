@@ -3307,7 +3307,6 @@
 	text-align: left;
 }
 .talk_theme{
-	width: 100%;
 	font-size:1.5em;
 	text-align: center;
 }
@@ -3321,8 +3320,7 @@
 	list-style-type: disc;
 }
 
-.ORGANIZEDBY{
-	width: 100%;
+.ORGANIZEDBY>p{
 	text-align: center;
 }
 .representative{
